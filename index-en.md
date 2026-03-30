@@ -2,108 +2,97 @@
 layout: default
 ---
 
-# AgreeTrap Privacy Policy for Android / iOS Applications
+# Moon Rabbit Camera Privacy Policy
 
 [日本語](index) | [English](index-en)
 
 ## Privacy Policy for Android / iOS Applications
 
-This Privacy Policy outlines the policies followed by Takanori Azegami (hereinafter referred to as "the developer") regarding the handling of personal information and equivalent data in relation to the Android / iOS application "AgreeTrap" (hereinafter referred to as "the app") developed by the developer.
+This Privacy Policy explains how Takanori Azegami ("the developer") handles user information in the Android / iOS application "Moon Rabbit Camera" ("the app").
 
 ### 1. Basic Policy
 
-The developer recognizes the importance of personal information, considers its protection a social responsibility, and complies with all applicable laws and regulations. The developer will appropriately obtain, use, and manage any personal or non-personal information handled through the app.
+The developer recognizes the importance of user information and will handle information used by the app appropriately while respecting applicable laws, regulations, and guidelines.
 
-### 2. Scope of Application
+### 2. Scope
 
-This Privacy Policy applies only to the app developed by the developer.
+This Privacy Policy applies only to this app.
 
-### 3. Overview of App Functionality
+### 3. Overview of the App
 
-The app is a quiz game designed to help users learn to identify dangerous clauses hidden in terms of service and consent screens. Users select dangerous text from fictional terms of service and learn through explanations. The app displays banner and interstitial advertisements using Google AdMob.
+The app allows users to detect the moon with the camera, place a moon-rabbit overlay on captured images, and save those photos locally on the device. Users can also view collected rabbits in the in-app encyclopedia.
 
-#### 3.1 App Permissions
+#### 3.1 Features and Permissions Used
 
-The app uses the following permission:
+The app mainly uses the following features and permissions:
 
-- **Storage access**: Used to store game progress data and user settings.
+- Camera: Used for moon detection and photo capture
+- Local device storage: Used to save captured photos, encyclopedia progress, and app settings
 
-### 4. Data Handling
+### 4. Information Collected and Stored
 
-#### 4.1 Stored Data
+#### 4.1 Information Stored on the Device
 
-The following non-personal information is stored locally on the user's device:
+The app stores the following information locally on the user's device:
 
-- Game progress data (IDs of cleared questions)
-- App configuration and setting data
+- Captured photo files
+- Metadata such as capture timestamps and rabbit IDs
+- Encyclopedia collection progress
+- App settings and local state data
 
-**No personally identifiable information is stored or transmitted to the developer.**
+This information is stored only on the device to the extent necessary for the app to function.
 
-#### 4.2 Data Storage Location and Retention Period
+#### 4.2 Personal Information
 
-All app data is stored within the device's internal storage.
-This data is retained until the user uninstalls the app.
+The developer does not collect personally identifiable information such as names, addresses, or email addresses through the app. Photos and encyclopedia data stored by the app are not sent to the developer's servers.
 
-#### 4.3 Data Collection by AdMob
+#### 4.3 Photo Data
 
-This app uses Google AdMob, an advertising service provided by Google Inc.
+Photos captured and saved in the app are stored locally on the user's device. When the share feature is used, photo data may be passed to external apps through the operating system's sharing feature only as a result of the user's explicit action.
 
-AdMob may automatically collect certain information, such as the advertising ID or other device identifiers, to display personalized ads based on the user's interests.
+### 5. Third-Party Services
 
-For more information on the data collected and how it is used, please refer to Google's privacy and advertising policies:
+#### 5.1 Google AdMob
+
+The app uses Google AdMob, an advertising service provided by Google LLC. AdMob may automatically collect information such as advertising identifiers and usage-related data for ad delivery and optimization.
+
+For more information, please refer to:
 
 - [Google Privacy Policy](https://policies.google.com/privacy?hl=en)
 - [Google Advertising Technologies](https://policies.google.com/technologies/ads?hl=en)
 
-### 5. Efforts to Protect User Privacy
+### 6. Purposes of Use
 
-#### 5.1 No Collection of Personal Information
+Information handled by the app is used for the following purposes:
 
-The developer does not collect any personally identifiable information within the app.
-Only non-personal data necessary for the app's functionality is stored locally on the user's device.
+- Detecting the moon, capturing photos, saving them, and displaying them
+- Recording and showing encyclopedia collection progress
+- Maintaining app settings and local state
+- Displaying ads and optimizing ad delivery
 
-Please refer to section 4.3 for details on AdMob-related data collection.
+### 7. User Control and Deletion
 
-#### 5.2 Ensuring Data Accuracy
+Users can delete saved photos individually within the app. Users can also remove the app to delete locally stored app data from their device.
 
-The app is designed to ensure that user-entered data is stored and reproduced accurately.
+### 8. Children's Privacy
 
-#### 5.3 Security Measures
+The app is not intended to knowingly collect personal information from children under the age of 13.
 
-To prevent data leaks or loss, the app does not transmit any data to external servers beyond its intended functionality.
+### 9. Security
 
-#### 5.4 Provision of Data to Third Parties
+The developer strives to manage app data appropriately under a local-storage-based design. However, the developer does not guarantee the security of the user's device, operating system, or external services.
 
-The developer will not provide any personal information to third parties without prior consent from the user.
-If third-party data sharing is introduced in the future, users will be informed of the details and purpose, and data will only be shared with their consent.
+### 10. Disclaimer
 
-### 6. User Rights and Choices
+The developer is not responsible for damages arising from the use of the app except where required by law. When sharing photos or using external services, please also review the policies and terms of those services.
 
-#### 6.1 Consent
-
-Users are requested to read this Privacy Policy before installing the app.
-By installing the app, the user is considered to have agreed to this Privacy Policy.
-
-#### 6.2 How to Delete Data
-
-Users can delete game progress data by selecting "Reset Progress" from the menu screen within the app.
-Uninstalling the app will also delete all locally stored data.
-
-### 7. Children's Privacy
-
-This app does not knowingly collect information from children under the age of 13.
-
-### 8. Disclaimer
-
-This app is a game for entertainment purposes only and does not provide legal advice. The information within the game is based on general knowledge, and for actual legal judgments, please consult a lawyer or other professional.
-
-### 9. Contact
+### 11. Contact
 
 If you have any questions about the app or this Privacy Policy, please contact:
 
-**Email:** t.azegami213@gmail.com
+Email: t.azegami213@gmail.com
 
-### 10. Effective Date and Update History
+### 12. Effective Date and Last Updated
 
-- Effective Date: 2025/12/31
-- Last Updated: 2025/12/31
+- Effective Date: 2026/03/31
+- Last Updated: 2026/03/31
